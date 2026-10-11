@@ -1,0 +1,4 @@
+telethon>=1.36,<2
+pyTelegramBotAPI>=4.20,<5
+Flask>=3.0,<4
+gunicorn>=22,<24
